@@ -1,0 +1,14 @@
+/Users/jason5d/Documents/Projects/dotNet/app/bin/Debug/net7.0/app
+/Users/jason5d/Documents/Projects/dotNet/app/bin/Debug/net7.0/app.deps.json
+/Users/jason5d/Documents/Projects/dotNet/app/bin/Debug/net7.0/app.runtimeconfig.json
+/Users/jason5d/Documents/Projects/dotNet/app/bin/Debug/net7.0/app.dll
+/Users/jason5d/Documents/Projects/dotNet/app/bin/Debug/net7.0/app.pdb
+/Users/jason5d/Documents/Projects/dotNet/app/obj/Debug/net7.0/app.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jason5d/Documents/Projects/dotNet/app/obj/Debug/net7.0/app.AssemblyInfoInputs.cache
+/Users/jason5d/Documents/Projects/dotNet/app/obj/Debug/net7.0/app.AssemblyInfo.cs
+/Users/jason5d/Documents/Projects/dotNet/app/obj/Debug/net7.0/app.csproj.CoreCompileInputs.cache
+/Users/jason5d/Documents/Projects/dotNet/app/obj/Debug/net7.0/app.dll
+/Users/jason5d/Documents/Projects/dotNet/app/obj/Debug/net7.0/refint/app.dll
+/Users/jason5d/Documents/Projects/dotNet/app/obj/Debug/net7.0/app.pdb
+/Users/jason5d/Documents/Projects/dotNet/app/obj/Debug/net7.0/app.genruntimeconfig.cache
+/Users/jason5d/Documents/Projects/dotNet/app/obj/Debug/net7.0/ref/app.dll
